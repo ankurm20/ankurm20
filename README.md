@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Ankur Maurya</h1>
-<h3 align="center">🚀 Full Stack Developer (.NET) | 💡 Problem Solver | 🌍 India</h3>
+<h3 align="center">🚀 Full Stack Developer (.NET) | 🌍 India</h3>
 
 ---
 
@@ -36,7 +36,12 @@
 
 ### 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cs,dotnet,html,css,js,nodejs,sqlserver,oracle,git,github" />
+  <!-- skillicons.dev supported -->
+  <img src="https://skillicons.dev/icons?i=c,cs,dotnet,html,css,js,nodejs,git,github" />
+
+  <!-- Custom icons -->
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" width="40" alt="SQL Server"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40" width="40" alt="Oracle"/>
 </p>
 
 ---
@@ -48,5 +53,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankurm20&theme=tokyonight" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=ankurm20&theme=tokyonight" alt="GitHub Streak" />
 </p>
